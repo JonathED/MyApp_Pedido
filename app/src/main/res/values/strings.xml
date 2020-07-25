@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">PEDIDO</string>
+
+    <string name="btn_registra">Registra</string>
+    <string name="btn_actualiza">Actualiza</string>
+    <string name="btn_elimina">Elimina</string>
+    <string name="btn_lista">Lista</string>
+    <string name="btn_guardar">Guardar</string>
+
+    <string name="lbl_id">ID</string>
+    <string name="lbl_pedido">Pedido</string>
+    <string name="lbl_FechaRegistro">Fecha Registro</string>
+    <string name="lbl_FechaEntrega">Fecha Entrega</string>
+    <string name="lbl_LugarEntrega">Lugar Entrega</string>
+    <string name="lbl_Ubigeo">ID Ubigeo</string>
+    <string name="lbl_Cliente">ID Cliente</string>
+    <string name="lbl_Usuario">ID Usuario</string>
+    <string name="lbl_estado">Estado</string>
+    <string-array name="array_estado">
+        <item>[Seleccione]</item>
+        <item>ENTREGADO</item>
+        <item>PENDIENTE</item>
+    </string-array>
+
+</resources>
